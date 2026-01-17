@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Facetigram",
+  "description": "A feature-rich social media platform inspired by Instagram, with integrated AI capabilities for content generation and smart interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
